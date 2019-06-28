@@ -1,5 +1,4 @@
 This is a theme based on Arc-Dark by horst3180 so credits where credits are due.
-
 The original Arc-Dark theme kan be found here: https://github.com/horst3180/Arc-theme
 
 
