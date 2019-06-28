@@ -9,13 +9,15 @@ As said, a theme based on Arc-Dark but with my own spin on it and with an "green
 
 Zafiro icons used in this theme can be found here: https://www.opendesktop.org/p/1209330/
 
+Conkytheme used in the screens below can be found here: https://www.noobslab.com/2012/10/install-1st-conky-in-ubuntulinux.html
+
 
 #Usage
 
 Dowload the files and copy thmefolder to ~/.themes for your user only or in /usr/share/themes for system wide usage. As for the Zafiro icontheme follow the instructions from creator in the link I provided apove. The moded icons can be placed any where and the just link to the icon when you create the application launcher.
 
 
-![A screenshot of the Arc-Dark-Greenifyed theme](https://i.imgur.com/aYWc0NU.jpg)
+![A screenshot of the Arc-Dark-Greenifyed theme](https://i.imgur.com/7eAJZQV.jpg)
 
 
 
