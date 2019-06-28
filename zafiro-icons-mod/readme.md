@@ -1,0 +1,1 @@
+This is the icons from Zafiro icon theme I modified and used for my applicationlauncher on the left side of the desktop.
