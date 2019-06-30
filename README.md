@@ -14,7 +14,7 @@ Conkytheme used in the screens below can be found here: https://www.noobslab.com
 
 Usage
 
-Dowload the files and copy thmefolder to ~/.themes for your user only or in /usr/share/themes for system wide usage. As for the Zafiro icontheme follow the instructions from creator in the link I provided apove. The moded icons can be placed any where and the just link to the icon when you create the application launcher.
+Dowload the files and copy the themefolder to ~/.themes for your user only or in /usr/share/themes for system wide usage. As for the Zafiro icontheme follow the instructions from creator in the link I provided apove. The moded icons can be placed any where and the just link to the icon when you create the application launcher.
 
 
 
